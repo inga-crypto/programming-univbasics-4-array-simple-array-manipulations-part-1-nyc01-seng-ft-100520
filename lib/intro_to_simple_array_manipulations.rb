@@ -16,7 +16,7 @@ end
 
 def using_shift(array)
   new_arr = array.shift
-  puts new_arr
+  p new_arr
 end
 
 def shift_with_args(array)
