@@ -21,5 +21,5 @@ end
 
 def shift_with_args(array)
   new = array.shift(2)
-  puts new
+  p new
 end
